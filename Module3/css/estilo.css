@@ -2,22 +2,22 @@
 
 /* Navbar styles */
 .navbar-default {
-    background-color: #4CAF50; /* Green background */
-    border-color: #4CAF50;
+    background-color: #c97f08; /* Orange background */
+    border-color: #82660c;
 }
 .navbar-brand {
-    color: #fff !important;
+    color: #f2e8e8 !important;
 }
 .navbar-toggle {
-    border-color: #fff;
+    border-color: #efd4d4;
 }
 .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #f1bdbd;
 }
 
 /* Dropdown menu for mobile view */
 #navbar-menu {
-    background-color: #4CAF50; /* Green background */
+    background-color: #574caf; /* Purple background */
 }
 #navbar-menu a {
     color: #fff !important;
@@ -53,7 +53,7 @@
 
 #sushi {
     background-color: #E3F2FD; /* Light blue background for section */
-    border-color: #0288D1;
+    border-color: #266c08;
 }
 
 /* Title specific colors */
@@ -72,7 +72,7 @@
 }
 
 #sushi .section-title {
-    background-color: #03A9F4; /* Light blue background for title */
+    background-color:#266c08; /* Algae green background for title */
     color: #fff;
     padding: 10px;
     border-radius: 5px;
