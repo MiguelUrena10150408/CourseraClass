@@ -1,0 +1,91 @@
+/* Custom styles for the page */
+
+/* Navbar styles */
+.navbar-default {
+    background-color: #4CAF50; /* Green background */
+    border-color: #4CAF50;
+}
+.navbar-brand {
+    color: #fff !important;
+}
+.navbar-toggle {
+    border-color: #fff;
+}
+.navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+/* Dropdown menu for mobile view */
+#navbar-menu {
+    background-color: #4CAF50; /* Green background */
+}
+#navbar-menu a {
+    color: #fff !important;
+}
+
+/* Main content styles */
+.container {
+    margin-top: 20px;
+}
+
+.text-center {
+    margin-bottom: 20px;
+}
+
+.content-section {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    min-height: 700px; /* Ensuring each section is tall enough */
+}
+
+/* Section specific colors */
+#chicken {
+    background-color: #FFF3CD; /* Light yellow background for section */
+    border-color: #FFA000;
+}
+
+#beef {
+    background-color: #FFEBEE; /* Light red background for section */
+    border-color: #E64A19;
+}
+
+#sushi {
+    background-color: #E3F2FD; /* Light blue background for section */
+    border-color: #0288D1;
+}
+
+/* Title specific colors */
+#chicken .section-title {
+    background-color: #FFC107; /* Amber background for title */
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#beef .section-title {
+    background-color: #FF5722; /* Deep orange background for title */
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#sushi .section-title {
+    background-color: #03A9F4; /* Light blue background for title */
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.content-section p {
+    color: #333;
+}
+
+a {
+    color: #4CAF50; /* Green link color */
+}
+
+a:hover {
+    color: #388E3C; /* Darker green on hover */
+}
